@@ -1,0 +1,1491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PAU (Panel Accessibility Universal)\n"
+"POT-Creation-Date: 2019-04-05 17:39+0200\n"
+"PO-Revision-Date: 2019-04-05 17:42+0200\n"
+"Last-Translator: Estudio Inclusivo <info@estudioinclusivo.com>\n"
+"Language-Team: Estudio Inclusivo <info@estudioinclusivo.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pau-plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-pau-admin.php:238
+msgid "Select an image"
+msgstr "Seleccione una imagen"
+
+#: admin/class-pau-admin.php:239
+msgid "Select an audio"
+msgstr "Seleccione un audio"
+
+#: admin/class-pau-admin.php:240
+msgid "Select a video"
+msgstr "Seleccione un vídeo"
+
+#: admin/class-pau-admin.php:243
+msgid "Use this image"
+msgstr "Usar esta imagen"
+
+#: admin/class-pau-admin.php:244
+msgid "Use this audio"
+msgstr "Usar este audio"
+
+#: admin/class-pau-admin.php:245 admin/class-pau-admin.php:263
+msgid "Use this video"
+msgstr "Usar este vídeo"
+
+#: admin/class-pau-admin.php:249
+msgid "The license field can not be left empty"
+msgstr "El campo de licencia no se puede dejar vacío"
+
+#: admin/class-pau-admin.php:250
+msgid "We are saving the information."
+msgstr "Estamos guardando la información."
+
+#: admin/class-pau-admin.php:251
+msgid "It has been saved correctly, the page will be updated soon."
+msgstr "Se ha guardado correctamente, la página se actualizará pronto."
+
+#: admin/class-pau-admin.php:252
+msgid "The field of the Sub License website can not be left empty"
+msgstr "Este campo de sub-licenciase puede dejar vacío"
+
+#: admin/class-pau-admin.php:255
+msgid "The data has been saved correctly"
+msgstr "Los datos se han guardado correctamente"
+
+#: admin/class-pau-admin.php:256
+msgid "There is no information to save"
+msgstr "No hay información para guardar"
+
+#: admin/class-pau-admin.php:259
+msgid "CREATE HOT SPOTS"
+msgstr "CREAR HOT SPOTS"
+
+#: admin/class-pau-admin.php:260
+msgid "UPDATE HOT SPOTS"
+msgstr "ACTUALIZAR HOT SPOTS"
+
+#: admin/class-pau-admin.php:261
+msgid "Deleting the record ..."
+msgstr "Eliminando el registro..."
+
+#: admin/class-pau-admin.php:262
+msgid "Duplicating the data ..."
+msgstr "Duplicando los datos..."
+
+#: admin/class-pau-admin.php:264
+msgid "Upload video"
+msgstr "Subir video"
+
+#: admin/class-pau-admin.php:265
+msgid ""
+"Processing the conversion and optimisation of videos to 3 formats (mp4,mov "
+"and webm)..."
+msgstr ""
+"Procesando la conversión y optimización de vídeos a 3 formatos (MP4, MOV y "
+"WebM)..."
+
+#: admin/class-pau-admin.php:266
+msgid "Saving the data ..."
+msgstr "Guardando los datos..."
+
+#: admin/class-pau-admin.php:269
+msgid "This field can not be left empty"
+msgstr "Este campo se puede dejar vacío"
+
+#: admin/class-pau-admin.php:272
+msgid "Create function of SEE IN VISUAL of the id: "
+msgstr "Crear función de VER EN VISUAL del ID: "
+
+#: admin/class-pau-admin.php:495
+msgid "There are no changes to save ..."
+msgstr "No hay cambios para guardar..."
+
+#: admin/class-pau-admin.php:580
+msgid "No new data to update ..."
+msgstr "No hay nuevos datos para actualizar..."
+
+#: admin/class-pau-admin.php:597
+msgid ""
+"The registration could not be duplicated, please contact the "
+"administrator ..."
+msgstr ""
+"El registro no se pudo duplicar, por favor póngase en contacto con el "
+"administrador..."
+
+#: admin/class-pau-admin.php:601
+msgid "deletes"
+msgstr "elimina"
+
+#: admin/class-pau-admin.php:613
+msgid "The record could not be deleted ..."
+msgstr "El registro no se pudo eliminar..."
+
+#: admin/class-pau-admin.php:619
+#, php-format
+msgid "The data has been %s correctly"
+msgstr "Los datos han sido %s correctamente"
+
+#: admin/class-pau-admin.php:629
+msgid "There is no license !! So the STATE will remain as PENDING"
+msgstr ""
+"¡¡ No hay licencia!!  Por lo tanto, el ESTADO permanecerá como PENDIENTE"
+
+#: admin/class-pau-admin.php:633
+msgid "NO LICENSE !! Don’t worry, it forces you to STATE = PENDING"
+msgstr "¡¡ SIN LICENCIA !! No pasa nada, te obliga a ESTADO = PENDIENTE"
+
+#: admin/class-pau-admin.php:634
+msgid "NO LICENSE !! Only the STATE in Hotspots demo will be updated"
+msgstr ""
+"¡¡ SIN LICENCIA !! Solo el ESTADO de los Hotspots de demo se actualizara"
+
+#: admin/class-pau-admin.php:736
+msgid ""
+"PAU Dashboard: Universal Accessibility Control Panel for the administrator"
+msgstr "Escritorio PAU: Panel de Accesibilidad Universal para el administrador"
+
+#: admin/class-pau-admin.php:737
+msgid "PAU"
+msgstr "PAU"
+
+#: admin/class-pau-admin.php:757
+msgid "PAU Settings"
+msgstr "Ajustes de PAU"
+
+#: admin/class-pau-admin.php:758
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-pau-admin.php:768
+msgid "Accessible content, providers and licenses"
+msgstr "Contenidos accesibles, proveedores y licencias"
+
+#: admin/class-pau-admin.php:769
+msgid "Suppliers"
+msgstr "Proveedores"
+
+#: admin/class-pau-admin.php:814
+msgid "Hot Spots Universal Accessibility"
+msgstr "HotSpots (Focos)  para la Accesibilidad Universal"
+
+#: admin/class-pau-admin.php:815
+msgid "Hot Spots UA"
+msgstr "Hot Spots AU"
+
+#: admin/class-pau-admin.php:847
+msgid "Help About Manage PAU"
+msgstr "Ayuda de cómo usar PAU"
+
+#: admin/class-pau-admin.php:848 public/class-pau-public.php:244
+msgid "Help"
+msgstr "Ayuda"
+
+#: admin/class-pau-admin.php:857
+msgid "Support PAU by Inclusive Studio"
+msgstr "Soporte PAU por Estudio Inclusivo"
+
+#: admin/class-pau-admin.php:858 public/class-pau-public.php:254
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/class-pau-admin.php:867
+msgid "¿Who is Inclusive Studio (Estudio Inclusivo, SLL) ?"
+msgstr "¿ Quién es Estudio Inclusivo, S.L.L. ?"
+
+#: admin/class-pau-admin.php:868
+msgid "About us"
+msgstr "Sobre nosotras"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:29
+msgid ""
+"<h2 class=\"abouTitle about1\">We are Accessibility and Inclusion</h2>\n"
+"        <div class=\"barra\"></div>\n"
+"        <p>We are professionals with diverse capacities, and our objective "
+"is to create a working environment that allows us to channel diversity in "
+"the search for solutions to develop universally accessible communication, "
+"assuming the challenges that innovation stands for. Both in the development "
+"of computer tools and work integration processes.</p>"
+msgstr ""
+"<h2 class=\"abouTitle about1\">Somos Accesibilidad e Inclusión</h2>\n"
+"<div class=\"barra\"></div>\n"
+"        <p>Somos profesionales con capacidades diversas, y nuestro objetivo "
+"es crear un entorno laboral que permita canalizar la diversidad en la "
+"búsqueda de soluciones para desarrollar la comunicación accesible universal, "
+"asumiendo los retos que marca la innovación. Tanto en el desarrollo de "
+"herramientas informáticas como de procesos de integración laboral.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:33
+msgid ""
+"<h2 class=\"abouTitle about2\">We don’t say, we do</h2>\n"
+"        <div class=\"barra\"></div>\n"
+"        <p>We have constituted ourselves as a Limited Labor Company because "
+"our roots are born within the social, solidary and equitable economy.</p>\n"
+"        <p>Equality of opportunity, the right to work, to be self-"
+"sufficient, the dream in a full life is common to all people.</p>"
+msgstr ""
+"<h2 class=\"abouTitle about2\">No decimos, hacemos</h2>\n"
+"<div class=\"barra\"></div>\n"
+"        <p>Nos hemos constituido como Sociedad Limitada Laboral pues "
+"nuestras raíces nacen dentro de la economía social, solidaria y equitativa.</"
+"p>\n"
+"        <p>La igualdad de oportunidades, el derecho al trabajo, conseguir "
+"ser autosuficientes, el sueño en una vida plena es común a todas las "
+"personas.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:41
+msgid ""
+"<h2 class=\"abouTitle about3\">Diversity working for Accesibility</h2>\n"
+"        <div class=\"barra\"></div>\n"
+"    \t<p>We live in the communication age. For those who have limited "
+"mobility and understanding, being able to access telematic channels of "
+"information can mean a radical change in their lives.</p>\n"
+"    \t<p>In Inclusive Studio (Estudio Inclusivo) we think that obstacles are "
+"opportunities that are disguised and that, with effort, will and a lot of "
+"love, can be overcome.</p>"
+msgstr ""
+"<h2 class=\"abouTitle about3\">La diversidad trabajando por la "
+"accesibilidad</h2>\n"
+"<div class=\"barra\"></div>\n"
+"    \t<p>Vivimos en la era de la comunicación. Para quienes tienen limitada "
+"su movilidad y comprensión, poder acceder a los canales telemáticos de "
+"información puede suponer un cambio radical en sus vidas.</p>\n"
+"    \t<p>En Estudio Inclusivo pensamos que los obstáculos son oportunidades "
+"disfrazadas y que, con esfuerzo, voluntad y mucho amor se pueden vencer.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:46
+msgid ""
+"<p>In the same way, facilitating access and telematic navigation can bring "
+"commercial initiatives to a greater number of potential customers.</p>\n"
+"        <p>We firmly believe that technological development provides us with "
+"tools capable of breaking the barriers that many people find when it comes "
+"to acquiring information due to their diversity, training and age.</p>"
+msgstr ""
+"<p>Del mismo modo el facilitar el acceso y la navegación telemática puede "
+"hacer llegar las iniciativas comerciales a un mayor número de potenciales "
+"clientes.</p>\n"
+"        <p>Creemos con firmeza que el desarrollo tecnológico nos provee de "
+"herramientas capaces de romper las barreras con las que se encuentran muchas "
+"personas a la hora de adquirir información por su diversidad, formación y "
+"edad.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:49
+msgid ""
+"<p>Through the research it is possible to innovate in the development of new "
+"tools that allow implementing accessibility in digital communication without "
+"the need to have programming knowledge. These tools include in the computer "
+"work market those people who, due to their diversity, have limited access to "
+"it, and allow them to develop their potential. Integration gives "
+"independence. Only by providing adequate support and tools to people is "
+"effective labor insertion achieved.</p>"
+msgstr ""
+"<p>A través de la investigación es posible innovar en el desarrollo de "
+"nuevas herramientas que permiten implementar la accesibilidad en la "
+"comunicación digital sin necesidad de tener conocimientos de programación. "
+"Estas herramientas incluyen en el mercado laboral informático a aquellas "
+"personas que por su diversidad, tienen limitado el acceso a este, y les "
+"permite desarrollar su potencial.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:51
+msgid "<h2 class=\"abouTitle about4\">Do you want to know more?</h2>"
+msgstr "<h2 class=\"abouTitle about4\">¿Quieres saber más?</h2>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-about-us-display.php:55
+msgid ""
+"<p>More information on our web: <a href=\"https://inclusivestudio.eu/?lang=en"
+"\" target=\"_blank\">www.inclusivestudio.eu</a></p>"
+msgstr ""
+"<p>Mas información en nuestra web: <a href=\"https://estudioinclusivo.com\" "
+"target=\"_blank\">www.estudioinclusivo.com</a></p>"
+
+#: admin/partials/pau-about-us-display.php:59
+#: admin/partials/pau-admin-display.php:46
+msgid "Logo of Inclusive Studio"
+msgstr "Logo de Estudio Inclusivo"
+
+#: admin/partials/pau-admin-display.php:23
+msgid "The best path is that one that does not end"
+msgstr "El Mejor camino, es aquel que no acaba."
+
+#. translators: Respect the html tags
+#: admin/partials/pau-admin-display.php:30
+msgid ""
+"\n"
+"                    <p>In this section, in the near future, a control of the "
+"accessibility status will be carried out throughout the web, until then, "
+"allow us to give you a brief introduction of how we got here..\n"
+"            \t\t</p>\n"
+"            \t\t<p>In order to be able to develop this plugin in an "
+"inclusive way (with mixed teams of people with disabilities and without "
+"them), previously there have been 5 years of research and development to "
+"detect and create the necessary tools to carry out an inclusive "
+"communication on the web, a contrasted and collaborative work with the "
+"different organisations and associations of the disability sector.</p>\n"
+"                    <p>In addition, it has been necessary to find talents "
+"within the disability sector and outside of it, to create and form a team of "
+"hopeful people, who develop under criteria of labor inclusion, in an "
+"economic organisation (Estudio Inclusivo) framed in the social economy, "
+"where people and the social good of their products are the epicentre.</p>\n"
+"                    <p>To achieve these results, in an environment that is a "
+"new economic and social-labor paradigm, they have had to create, adapt, "
+"discuss and improve numerous work protocols, customised to the diversity of "
+"each component of the team, carried out jointly by the coordinators. of "
+"equipment and psychologists.\n"
+"                    </p>\n"
+"                    <p>That said, we hope you enjoy using this plugin that "
+"allows a use of a web without barriers, and that you are also so satisfied "
+"that you recommend it, allowing us to continue generating a social value "
+"chain.</p>"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"<p>\n"
+"En esta sección, en un futuro cercano, se llevara un control del estado de "
+"la accesibilidad ejecutada en toda la web, hasta entonces, permítenos que te "
+"hagamos una breve introducción de como hemos llegado hasta aquí.</p>\n"
+"    \t\t<p>Para poder llegar a desarrollar este plugin de forma inclusiva "
+"(con equipos mixtos de personas con disCAPACIDAD y sin ella), ha habido "
+"previamente 5 años de investigación y desarrollo para detectar y crear las "
+"herramientas necesarias para poder realizar una comunicación inclusiva en la "
+"web, un trabajo contrastado y colaborativo con las distintas organizaciones "
+"y asociaciones del sector de la discapacidad.</p>\n"
+"            <p>Además se ha tenido que buscar talentos dentro del sector de "
+"la discapacidad y fuera de ella, para crear y formar un equipo de personas "
+"ilusionadas, que se desarrollan bajo criterios de inclusión laboral, en una "
+"organización económica (Estudio Inclusivo) enmarcada en la economía social, "
+"donde las personas y el bien social de sus productos son el epicentro.</p>\n"
+"            <p>Para conseguir estos resultados, en un entorno que es un "
+"nuevo paradigma económico y social-laboral, se han tenido que crear, "
+"adaptar, debatir y mejorar numerosos protocolos de trabajo, personalizados a "
+"la diversidad de cada componente del equipo, realizados conjuntamente entre "
+"los coordinadores de equipo y psicólogos.</p>\n"
+"            <p>Dicho esto, esperamos que disfrutes usando este plugin que "
+"permite un uso de a web sin barreras, y que además quedes tan satisfecho que "
+"lo recomiendes, permitiéndonos así seguir generando una cadena de valor "
+"social.</p>"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-admin-display.php:42
+msgid ""
+"For more information, visit our website: <a href=\"https://inclusivestudio."
+"com\" target=\"_Blank\">www.inclusivestudio.com</a>"
+msgstr ""
+"Para mas información, visita nuestra web: <a href=\"https://estudioinclusivo."
+"com\" target=\"_Blank\">www.estudioinclusivo.com</a>"
+
+#: admin/partials/pau-help-display.php:22
+msgid ""
+"Here you will find all the documentation and regarding help of the plugin "
+"pau."
+msgstr "Aquí encontrarás toda la documentación y la ayuda del plugin Pau."
+
+#: admin/partials/pau-help-display.php:26
+msgid "Click on the type of that help you prefer:"
+msgstr "Haga clic en el tipo de ayuda que prefieras:"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-help-display.php:33
+msgid ""
+"<a href=\"https://estudioinclusivo.com/products/panel-de-accesibilidad-"
+"universal/documentation-plugin-pau/?lang=en\" target=\"_blank\"> User "
+"manual / FAQ / Video tutorials </a>"
+msgstr ""
+"<a href=\"https://estudioinclusivo.com/products/panel-de-accesibilidad-"
+"universal/documentation-plugin-pau/\" target=\"_blank\">Manual del usuario / "
+"FAQ / Video tutoriales</a>"
+
+#: admin/partials/pau-hotspots-display.php:23
+msgid ""
+"YOU DON´T HAVE A LICENSE: Nothing happens, you can use the plugin for non-"
+"commercial use with some limitations."
+msgstr ""
+"NO TIENE LICENCIA: No pasa nada, puedes utilizar el plugin para uso no "
+"comercial con alguna limitación."
+
+#: admin/partials/pau-hotspots-display.php:24
+msgid "To enter your LICENSE: Go to SUPPLIERS page."
+msgstr "Para ingresar su LICENCIA: Vaya a la pagina de PROVEEDORES."
+
+#: admin/partials/pau-hotspots-display.php:25
+msgid "BUY LICENSE"
+msgstr "COMPRAR LICENCIA"
+
+#: admin/partials/pau-hotspots-display.php:28
+msgid "LIMITATIONS WITHOUT LICENSE ARE:"
+msgstr "LAS LIMITACIONES SIN LICENCIA SON:"
+
+#: admin/partials/pau-hotspots-display.php:29
+msgid ""
+"1 - You can not change the HotSpot demo data that was already in the "
+"activation of the plugin."
+msgstr ""
+"1-No podrás cambiar los datos de los HotSpot demo que ya estaba en la "
+"activación del plugin."
+
+#: admin/partials/pau-hotspots-display.php:30
+msgid ""
+"2 - The status field in the new hotspot will remain as PENDING, being "
+"visible only by the administrator."
+msgstr ""
+"2-El campo de estado en los nuevos HotSpots permanecerá como PENDING, siendo "
+"visible sólo por el administrador."
+
+#: admin/partials/pau-hotspots-display.php:86
+#: includes/class-pau-formbuild.php:120
+msgid "-- Select --"
+msgstr "-- Seleccionar --"
+
+#: admin/partials/pau-hotspots-display.php:87
+msgid "This field can be left empty"
+msgstr "Este campo se puede dejar vacío"
+
+#: admin/partials/pau-hotspots-display.php:180
+msgid "The assignment has been saved correctly!"
+msgstr "¡La asignación se ha guardado correctamente!"
+
+#: admin/partials/pau-hotspots-display.php:183 public/class-pau-public.php:335
+#: public/class-pau-public.php:395
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/partials/pau-hotspots-display.php:236
+msgid "HotSpot UA:"
+msgstr "HotSpot AU:"
+
+#: admin/partials/pau-hotspots-display.php:243
+#: admin/partials/pau-hotspots-display.php:678
+msgid "Object"
+msgstr "Objeto"
+
+#: admin/partials/pau-hotspots-display.php:244
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#: admin/partials/pau-hotspots-display.php:245
+msgid "Style"
+msgstr "Estilo"
+
+#: admin/partials/pau-hotspots-display.php:266
+#: admin/partials/pau-hotspots-display.php:275
+msgid "Language:"
+msgstr "Idioma:"
+
+#: admin/partials/pau-hotspots-display.php:276
+msgid "Add the language code.<br> EJ: es_ES, en_US, fr_FR."
+msgstr "Agregar el código de idioma.<br> EJ: es_ES, en_US, fr_FR."
+
+#: admin/partials/pau-hotspots-display.php:287
+msgid "Pending"
+msgstr "Pendiente"
+
+#: admin/partials/pau-hotspots-display.php:288
+msgid "Active"
+msgstr "Activo"
+
+#: admin/partials/pau-hotspots-display.php:289
+msgid "Deactivate"
+msgstr "Desactivo"
+
+#: admin/partials/pau-hotspots-display.php:291
+msgid "State:"
+msgstr "Estado:"
+
+#: admin/partials/pau-hotspots-display.php:326
+msgid "Page:"
+msgstr "Página:"
+
+#: admin/partials/pau-hotspots-display.php:334
+msgid "Menu"
+msgstr "Menú"
+
+#: admin/partials/pau-hotspots-display.php:338
+msgid "Container"
+msgstr "Contenedor"
+
+#: admin/partials/pau-hotspots-display.php:342
+msgid "Page Content"
+msgstr "Contenido de la página"
+
+#: admin/partials/pau-hotspots-display.php:346
+msgid "Emergent"
+msgstr "Emergente"
+
+#: admin/partials/pau-hotspots-display.php:350
+msgid "Embedded"
+msgstr "Embebido"
+
+#: admin/partials/pau-hotspots-display.php:357
+msgid "Type of HotSpot:"
+msgstr "Tipo de HotSpot:"
+
+#: admin/partials/pau-hotspots-display.php:373
+msgid "Object:"
+msgstr "Objeto:"
+
+#: admin/partials/pau-hotspots-display.php:379
+msgid "Child Level:"
+msgstr "Nivel hijo:"
+
+#: admin/partials/pau-hotspots-display.php:385
+msgid "Route of the Object:"
+msgstr "Ruta del Objeto:"
+
+#: admin/partials/pau-hotspots-display.php:391
+msgid "Text Rute Object:"
+msgstr "Texto ruta del objeto:"
+
+#: admin/partials/pau-hotspots-display.php:403
+msgid "Object Class:"
+msgstr "Clase del objeto:"
+
+#: admin/partials/pau-hotspots-display.php:415
+msgid "Pictogram Name:"
+msgstr "Nombre del pictograma:"
+
+#: admin/partials/pau-hotspots-display.php:431
+msgid "OnClick event of the Pictogram:"
+msgstr "URL de destino al hacer clic:"
+
+#: admin/partials/pau-hotspots-display.php:441
+msgid "Audio Name:"
+msgstr "Nombre del audio:"
+
+#: admin/partials/pau-hotspots-display.php:458
+msgid "Video Name:"
+msgstr "Nombre de video:"
+
+#: admin/partials/pau-hotspots-display.php:482
+msgid "Width Container:"
+msgstr "Ancho del Contenedor:"
+
+#: admin/partials/pau-hotspots-display.php:493
+msgid "Height Container:"
+msgstr "Altura del contenedor:"
+
+#: admin/partials/pau-hotspots-display.php:505
+msgid "X Position:"
+msgstr "Posición X:"
+
+#: admin/partials/pau-hotspots-display.php:511
+msgid "Y Position:"
+msgstr "Posición Y:"
+
+#: admin/partials/pau-hotspots-display.php:517
+msgid "Custom Class:"
+msgstr "Clase personalizada:"
+
+#: admin/partials/pau-hotspots-display.php:532
+msgid "Create Hotspot:"
+msgstr "Crear Hotspot:"
+
+#: admin/partials/pau-hotspots-display.php:542
+msgid "Are you sure off deleting the record with the ID "
+msgstr "Seguro que desea eliminar el registro con el Id "
+
+#: admin/partials/pau-hotspots-display.php:545
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/partials/pau-hotspots-display.php:546
+#: admin/partials/pau-hotspots-display.php:916
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/partials/pau-hotspots-display.php:559
+msgid ""
+"In this section you can manage your spotlights or accessibility HotSpots for "
+"your website, with pictograms, audios (locutions) and sign language (video)."
+msgstr ""
+"En esta sección podrás gestionar tus focos o HotSpots de accesibilidad para "
+"tu sitio web, con pictogramas, audios (locuciones) y lenguaje de señas "
+"(vídeo)."
+
+#: admin/partials/pau-hotspots-display.php:581
+msgid "Search a HotSpot"
+msgstr "Buscar un HotSpot"
+
+#: admin/partials/pau-hotspots-display.php:583
+msgid "Search"
+msgstr "Buscar"
+
+#: admin/partials/pau-hotspots-display.php:599
+msgid "New"
+msgstr "Nuevo"
+
+#: admin/partials/pau-hotspots-display.php:646
+#, php-format
+msgid "No results were found for: “%s”"
+msgstr "No se encontraron resultados para: \" %s\""
+
+#: admin/partials/pau-hotspots-display.php:654
+#, php-format
+msgid "%s results found for: “%s”"
+msgid_plural "We found %s result for: “%s”"
+msgstr[0] "%s resultado encontrado para: \" %s\""
+msgstr[1] "Encontramos %s resultados para: \" %s\""
+
+#: admin/partials/pau-hotspots-display.php:665
+msgid "Click here to return to the HotSpot list"
+msgstr "Haga clic aquí para volver a la lista de HotSpot"
+
+#: admin/partials/pau-hotspots-display.php:674
+msgid "Id"
+msgstr "Id"
+
+#: admin/partials/pau-hotspots-display.php:675
+msgid "Language"
+msgstr "Idioma"
+
+#: admin/partials/pau-hotspots-display.php:676
+msgid "State"
+msgstr "Estado"
+
+#: admin/partials/pau-hotspots-display.php:677 public/class-pau-public.php:611
+msgid "Page"
+msgstr "Página"
+
+#: admin/partials/pau-hotspots-display.php:679
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/partials/pau-hotspots-display.php:680
+msgid "Pictograms"
+msgstr "Pictogramas"
+
+#: admin/partials/pau-hotspots-display.php:681
+msgid "Audios"
+msgstr "Audios"
+
+#: admin/partials/pau-hotspots-display.php:682
+msgid "Sign language"
+msgstr "Lengua de signos"
+
+#: admin/partials/pau-hotspots-display.php:683
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/partials/pau-hotspots-display.php:779
+msgid "Reassign"
+msgstr "Re-asignar"
+
+#: admin/partials/pau-hotspots-display.php:791
+msgid "To Assign"
+msgstr "Asignar"
+
+#: admin/partials/pau-hotspots-display.php:801
+#: includes/class-pau-formbuild.php:182 includes/class-pau-formbuild.php:186
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/partials/pau-hotspots-display.php:830
+#: admin/partials/pau-hotspots-display.php:858
+#: admin/partials/pau-hotspots-display.php:881
+msgid "Unassigned"
+msgstr "Sin asignar"
+
+#: admin/partials/pau-hotspots-display.php:850
+msgid "Your browser does not support the audio tag html5"
+msgstr "Tu navegador web no puede soportar las etiquetas de audio html5"
+
+#: admin/partials/pau-hotspots-display.php:873
+msgid "Your browser does not support the video tag html5"
+msgstr "Tu navegador web no puede soportar las etiquetas de vídeo html5"
+
+#: admin/partials/pau-hotspots-display.php:889
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/partials/pau-hotspots-display.php:903
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: admin/partials/pau-settings-display.php:25
+msgid "General setting"
+msgstr "Configuración general"
+
+#: admin/partials/pau-settings-display.php:26
+msgid "Default setting"
+msgstr "Configuración por defecto"
+
+#: admin/partials/pau-settings-display.php:27
+#: admin/partials/pau-settings-display.php:428 public/class-pau-public.php:235
+msgid "Design"
+msgstr "Diseño"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-settings-display.php:39
+msgid ""
+"<p>In this section you can configure and customise the behavior of your PAU "
+"panel, as well as, if you want to provide it with audios and / or sign "
+"language.</p>"
+msgstr ""
+"<p>En esta sección podrás configurar y personalizar el comportamiento de tu "
+"panel PAU, así como, si deseas dotarlo de audios y/o lengua de signos.</p>"
+
+#: admin/partials/pau-settings-display.php:47
+msgid "PAU enabled by default"
+msgstr "PAU activo por defecto"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-settings-display.php:60
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t<p>In this section you can indicate the buttons that will be "
+"displayed in your PAU panel, check the box show if you want them to be "
+"available in the panel.</p>\n"
+"\t\t\t\t\t\t\t<p>You can also indicate if this will be active by default, or "
+"not, in the second box next to the name of each function.</p>\n"
+"\t\t\t\t\t\t\t<p>This last configuration by default can be changed by each "
+"of the users, allowing them a personalised assisted browsing, and storing "
+"their preferences in a cookie.</p>\n"
+"\t\t\t\t"
+msgstr ""
+"\n"
+"<p>En esta sección puede indicar los botones que se mostrarán en su panel "
+"PAU, marque la casilla Mostrar si desea que estén disponibles en el panel.</"
+"p>\n"
+"\t\t\t\t\t\t\t<p>También puede indicar si este estará activo por defecto, o "
+"no, en el segundo cuadro junto al nombre de cada función.</p>\n"
+"\t\t\t\t\t\t\t<p>Esta última configuración por defecto puede ser cambiada "
+"por cada uno de los usuarios, permitiéndoles una navegación asistida y "
+"personalizada,  almacenando sus preferencias en una cookie.</p> "
+
+#: admin/partials/pau-settings-display.php:73 public/class-pau-public.php:195
+msgid "Profiles"
+msgstr "Perfiles"
+
+#: admin/partials/pau-settings-display.php:79
+#: admin/partials/pau-settings-display.php:126
+#: admin/partials/pau-settings-display.php:141
+#: admin/partials/pau-settings-display.php:156
+#: admin/partials/pau-settings-display.php:171
+#: admin/partials/pau-settings-display.php:198
+#: admin/partials/pau-settings-display.php:213
+#: admin/partials/pau-settings-display.php:228
+#: admin/partials/pau-settings-display.php:243
+#: admin/partials/pau-settings-display.php:274
+#: admin/partials/pau-settings-display.php:312
+#: admin/partials/pau-settings-display.php:328
+#: admin/partials/pau-settings-display.php:344
+#: admin/partials/pau-settings-display.php:376
+#: admin/partials/pau-settings-display.php:391
+#: admin/partials/pau-settings-display.php:408
+#: admin/partials/pau-settings-display.php:437
+msgid "Show?"
+msgstr "¿,Mostrar?"
+
+#: admin/partials/pau-settings-display.php:87 public/class-pau-public.php:158
+#: public/class-pau-public.php:196
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/partials/pau-settings-display.php:88 public/class-pau-public.php:197
+msgid "Visual Diversity"
+msgstr "Diversidad Visual"
+
+#: admin/partials/pau-settings-display.php:89 public/class-pau-public.php:198
+msgid "Auditive Diversity"
+msgstr "Diversidad Auditiva"
+
+#: admin/partials/pau-settings-display.php:90 public/class-pau-public.php:161
+#: public/class-pau-public.php:199
+msgid "Cognitive Diversity"
+msgstr "Diversidad Cognitiva"
+
+#: admin/partials/pau-settings-display.php:91
+msgid "Custom"
+msgstr "Personalizar"
+
+#: admin/partials/pau-settings-display.php:119 public/class-pau-public.php:204
+msgid "General"
+msgstr "General"
+
+#: admin/partials/pau-settings-display.php:132 public/class-pau-public.php:205
+msgid "Show / Hide ALL"
+msgstr "Mostrar / Esconder todo"
+
+#: admin/partials/pau-settings-display.php:147
+msgid "Activate General Sound."
+msgstr "Activar el Sonido General."
+
+#: admin/partials/pau-settings-display.php:162 public/class-pau-public.php:207
+msgid "All Sign Language Videos"
+msgstr "Todos los Vídeos LSE"
+
+#: admin/partials/pau-settings-display.php:177
+msgid "Content presentation"
+msgstr "Locución del contenido"
+
+#: admin/partials/pau-settings-display.php:191 public/class-pau-public.php:212
+msgid "Navigation"
+msgstr "Navegación"
+
+#: admin/partials/pau-settings-display.php:204 public/class-pau-public.php:213
+msgid "Large cursor"
+msgstr "Cursor grande"
+
+#: admin/partials/pau-settings-display.php:219 public/class-pau-public.php:214
+msgid "Click sound"
+msgstr "Sonido al click"
+
+#: admin/partials/pau-settings-display.php:234 public/class-pau-public.php:215
+msgid "Show where you are"
+msgstr "Muestra dónde estás"
+
+#: admin/partials/pau-settings-display.php:249 public/class-pau-public.php:216
+msgid "Zoom in on links"
+msgstr "Zoom en enlaces"
+
+#: admin/partials/pau-settings-display.php:263 public/class-pau-public.php:220
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: admin/partials/pau-settings-display.php:294
+msgid "Font size (1-9 em)"
+msgstr "Tamaño de la fuente (1 - 9 em)"
+
+#: admin/partials/pau-settings-display.php:306
+msgid "Type of font (only one at a time)"
+msgstr "Tipo de fuente (solo una a la vez)"
+
+#: admin/partials/pau-settings-display.php:318 public/class-pau-public.php:222
+msgid "Readable"
+msgstr "Legible"
+
+#: admin/partials/pau-settings-display.php:334 public/class-pau-public.php:223
+msgid "Dyslexia"
+msgstr "Dislexia"
+
+#: admin/partials/pau-settings-display.php:350
+msgid "Highlight Links"
+msgstr "Resaltar enlaces"
+
+#: admin/partials/pau-settings-display.php:365 public/class-pau-public.php:228
+msgid "Visual"
+msgstr "Visual"
+
+#: admin/partials/pau-settings-display.php:370
+msgid "Filters (only one at a time)"
+msgstr "Filtros (solo uno a la vez)"
+
+#: admin/partials/pau-settings-display.php:382
+msgid "See in Black and White"
+msgstr "Ver en Blanco / Negro"
+
+#: admin/partials/pau-settings-display.php:397 public/class-pau-public.php:230
+msgid "Invert Colours"
+msgstr "Invertir los colores"
+
+#: admin/partials/pau-settings-display.php:414
+msgid "Highlight the focus of a selection"
+msgstr "Resaltar el foco de una selección"
+
+#: admin/partials/pau-settings-display.php:447
+msgid "PAU Zoom (from 30% to 200%)"
+msgstr "Zoom del PAU  (del 30% al 200%)"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-settings-display.php:467
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t<p>In this section you can customise the design and styles of "
+"your PAU panel.</p>\n"
+"\t\t\t\t"
+msgstr ""
+"\n"
+"<p>En esta sección podrás personalizar el diseño y los estilos de tu panel "
+"PAU.</p> "
+
+#: admin/partials/pau-settings-display.php:474
+msgid "COMING SOON"
+msgstr "Próximamente"
+
+#: admin/partials/pau-settings-display.php:481
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/partials/pau-suppliers-display.php:25
+msgid "INCLUSIVE STUDIO SERVICES:"
+msgstr "SERVICIOS DE ESTUDIO INCLUSIVO:"
+
+#: admin/partials/pau-suppliers-display.php:30
+msgid ""
+"Forget about everything. Inclusive Studio does it all for you, generating "
+"inclusive employment."
+msgstr ""
+"Olvídate de todo. estudio inclusivo lo hace todo por ti, generando empleo "
+"inclusivo."
+
+#: admin/partials/pau-suppliers-display.php:33
+msgid ""
+"We buy and put the license, we configure everything you want, and we put all "
+"the pictograms, audios and sign language you need."
+msgstr ""
+"Compramos y ponemos la licencia, configuramos todo, y ponemos todos los "
+"pictogramas, audios y lengua de signos que necesites."
+
+#: admin/partials/pau-suppliers-display.php:37
+msgid "ASK FOR BUDGET WITHOUT COMMITMENT"
+msgstr "PEDIR PRESUPUESTO SIN COMPROMISO"
+
+#: admin/partials/pau-suppliers-display.php:44
+msgid "Purchase of the PAU plugin licenses:"
+msgstr "Compra de las licencias del plugin PAU:"
+
+#: admin/partials/pau-suppliers-display.php:82
+msgid "Change license code"
+msgstr "Cambiar el código de licencia"
+
+#: admin/partials/pau-suppliers-display.php:91
+msgid "License code: "
+msgstr "Código de licencia "
+
+#: admin/partials/pau-suppliers-display.php:92
+msgid "Expiration date: "
+msgstr "Fecha de caducidad: "
+
+#: admin/partials/pau-suppliers-display.php:104
+msgid "Enter your license code:"
+msgstr "Introduce tu código de licencia:"
+
+#: admin/partials/pau-suppliers-display.php:106
+msgid "Save License"
+msgstr "Guardar licencia"
+
+#: admin/partials/pau-suppliers-display.php:115
+msgid "Master License"
+msgstr "Licencia MASTER"
+
+#: admin/partials/pau-suppliers-display.php:118
+msgid "<strong>1 year</strong> with technical support"
+msgstr "<strong>1 año</strong> de soporte técnico"
+
+#: admin/partials/pau-suppliers-display.php:119
+#: admin/partials/pau-suppliers-display.php:155
+msgid "<strong>1 year</strong> with updates"
+msgstr "<strong>1 año </strong> de actualizaciones"
+
+#: admin/partials/pau-suppliers-display.php:120
+msgid ""
+"<strong>1 Master License</strong>, for your first website with Universal "
+"Accessibility"
+msgstr ""
+"<strong>1 Licencia Master</strong>, para tu primera página web con "
+"Accesibilidad Universal"
+
+#: admin/partials/pau-suppliers-display.php:137
+#: admin/partials/pau-suppliers-display.php:163
+msgid "Buy"
+msgstr "Comprar"
+
+#: admin/partials/pau-suppliers-display.php:138
+msgid "I had already had a lincense."
+msgstr "Ya tengo una licencia."
+
+#: admin/partials/pau-suppliers-display.php:140
+msgid "There is already a saved MASTER license"
+msgstr "Ya hay una licencia MASTER guardada"
+
+#: admin/partials/pau-suppliers-display.php:151
+msgid "WEB SubLicense"
+msgstr "Sub-licencia WEB"
+
+#: admin/partials/pau-suppliers-display.php:154
+msgid ""
+"Additional licenses per site, <strong>without</strong> technical support"
+msgstr ""
+"Licencias adicionales por sito o web, <strong>sin</strong> Soporte Técnico"
+
+#: admin/partials/pau-suppliers-display.php:161
+msgid "Enter the url of the website to register the sublicense: "
+msgstr "Introduce la url de la página web para registrar la sublicencia "
+
+#: admin/partials/pau-support-display.php:21
+msgid ""
+"Technical support is uniquely limited to MASTER Licenses. Please attach the "
+"license key to your incident, thank you."
+msgstr ""
+"El soporte técnico se limita únicamente a las licencias MATER. Por favor, "
+"adjunte la clave de licencia a su incidencia, gracias."
+
+#: admin/partials/pau-support-display.php:24
+msgid "Click on the type of support you need:"
+msgstr "Haga clic en el tipo de soporte que necesita:"
+
+#. translators: Respect the html tags
+#: admin/partials/pau-support-display.php:31
+msgid ""
+"<a href=\"https://estudioinclusivo.com/contacto/?lang=en\" target=\"_blank"
+"\"> Billing / Commercial / Technical support </a>"
+msgstr ""
+"<a href=\"https://estudioinclusivo.com/contacto/\" target=\"_blank"
+"\">Facturación / Comercial / Soporte Técnico </a>"
+
+#: includes/class-pau-cpt.php:8
+msgid "Plurar"
+msgstr "Plural"
+
+#: includes/class-pau-cpt.php:9
+msgid "Singular"
+msgstr "Singular"
+
+#: includes/class-pau-cpt.php:10
+msgid "Add new"
+msgstr "Añadir Nuevo"
+
+#: includes/class-pau-cpt.php:11
+msgid "Add new item"
+msgstr "Añadir nuevo item"
+
+#: includes/class-pau-cpt.php:12
+msgid "Edit item"
+msgstr "Editar item"
+
+#: includes/class-pau-cpt.php:13
+msgid "View item"
+msgstr "Ver item"
+
+#: includes/class-pau-cpt.php:14
+msgid "Cover image items"
+msgstr "Imagen de portada del item"
+
+#: includes/class-pau-cpt.php:15
+msgid "Define cover item"
+msgstr "Definir portada del item"
+
+#: includes/class-pau-cpt.php:16
+msgid "Delete cover item"
+msgstr "Borrar portada del item"
+
+#: includes/class-pau-cpt.php:17
+msgid "Use an item image."
+msgstr "Usar  imagen del ítem."
+
+#: includes/class-pau-formbuild.php:172
+msgid "Show fields for external URLs"
+msgstr "Mostrar campo para URLs externas"
+
+#: includes/class-pau-metaboxes.php:40
+msgid "Title"
+msgstr "Titulo"
+
+#: includes/class-pau-widgets.php:17
+msgid "My Personalised Widget"
+msgstr "Mi Widget personalizado"
+
+#: public/class-pau-public.php:157
+msgid "Choose your DIVERSITY profile"
+msgstr "Elige tu perfil de DIVERSIDAD"
+
+#: public/class-pau-public.php:159
+msgid "Visual diversity"
+msgstr "Diversidad Visual"
+
+#: public/class-pau-public.php:160
+msgid "Auditive diversity"
+msgstr "Diversidad Auditiva"
+
+#: public/class-pau-public.php:162
+msgid "Continue"
+msgstr "Continuar"
+
+#: public/class-pau-public.php:163
+msgid "Increase the size of PAU"
+msgstr "Incrementa tamaño de PAU"
+
+#: public/class-pau-public.php:164
+msgid "You have increased the size of PAU"
+msgstr "Has aumentado el tamaño de PAU"
+
+#: public/class-pau-public.php:165
+msgid "Decrease the size of PAU"
+msgstr "Has disminuido el tamaño de PAU"
+
+#: public/class-pau-public.php:166
+msgid "Set position of PAU"
+msgstr "Fija la posición de PAU"
+
+#: public/class-pau-public.php:167
+msgid "Send to sleep to PAU"
+msgstr "Manda a dormir a PAU"
+
+#: public/class-pau-public.php:168
+msgid "You have sent PAU to sleep"
+msgstr "Has mandado a Dormir a PAU"
+
+#: public/class-pau-public.php:169
+msgid "Return to default profile"
+msgstr "Volver al perfil por defecto"
+
+#: public/class-pau-public.php:170
+msgid "You have returned to the default profile"
+msgstr "Has vuelto al perfil por defecto"
+
+#: public/class-pau-public.php:171
+msgid "Choose the VISUAL DIVERSITY profile"
+msgstr "Elige el perfil de DIVERSIDAD VISUAL"
+
+#: public/class-pau-public.php:172
+msgid "You have selected the VISUAL DIVERSITY profile"
+msgstr "Has elegido el perfil de DIVERSIDAD VISUAL"
+
+#: public/class-pau-public.php:173
+msgid "Choose the HEARING DIVERSITY profile"
+msgstr "Elige el perfil de DIVERSIDAD AUDITIVA"
+
+#: public/class-pau-public.php:174
+msgid "You have selected the HEARING DIVERSITY profile"
+msgstr "Has elegido el perfil de DIVERSIDAD AUDITIVA"
+
+#: public/class-pau-public.php:175
+msgid "You have deactivated the PAU panel"
+msgstr "Has desactivado el panel PAU"
+
+#: public/class-pau-public.php:200
+msgid "Customed"
+msgstr "Personalizar"
+
+#: public/class-pau-public.php:206
+msgid "Activate Geral Sound."
+msgstr "Activar el Sonido General."
+
+#: public/class-pau-public.php:208
+msgid "Reading or sound content"
+msgstr "Locución del contenido"
+
+#: public/class-pau-public.php:221
+msgid "Font size (1 - 9 em)"
+msgstr "Tamaño de la fuente (1 - 9 em)"
+
+#: public/class-pau-public.php:224
+msgid "Highlight links"
+msgstr "Enlaces resaltados"
+
+#: public/class-pau-public.php:229
+msgid "Black/White"
+msgstr "Negro/Blanco"
+
+#: public/class-pau-public.php:231
+msgid "Highlight Focused"
+msgstr "Destacar el Foco"
+
+#: public/class-pau-public.php:236
+msgid "Increase of the panel"
+msgstr "Aumento del panel"
+
+#: public/class-pau-public.php:237
+msgid "Select PAU Design Template"
+msgstr "Seleccionar plantilla de diseño PAU"
+
+#: public/class-pau-public.php:238
+msgid "Select Position of the PAU"
+msgstr "Seleccionar posición de PAU"
+
+#: public/class-pau-public.php:245
+msgid "Documentation"
+msgstr "Documentación"
+
+#: public/class-pau-public.php:248
+#, php-format
+msgid ""
+"%s/products/panel-de-accesibilidad-universal/documentation-plugin-pau/?"
+"lang=en"
+msgstr ""
+"%s/Products/panel-de-accesibilidad-universal/documentation-plugin-Pau/ ?"
+"lang=es_ES"
+
+#: public/class-pau-public.php:253
+msgid "Videos"
+msgstr "Videos"
+
+#: public/class-pau-public.php:255
+msgid "Suggestions"
+msgstr "Sugerencias"
+
+#: public/class-pau-public.php:258
+#, php-format
+msgid "%s/contacto/?lang=en"
+msgstr "%s/contacto/?lang=es_ES"
+
+#: public/class-pau-public.php:266
+msgid "To go"
+msgstr "Ir a Ver"
+
+#: public/class-pau-public.php:267
+msgid "Coming Soon"
+msgstr "Próximamente"
+
+#: public/class-pau-public.php:316
+#, php-format
+msgid ""
+"The ID hotspot is: %d <br> Click on the element you want to select for the "
+"assignment and then save the assignment"
+msgstr ""
+"El ID del HotsSot es: %d <br> Haz click en el elemento que quieres "
+"seleccionar y guardar la asignación de objeto"
+
+#: public/class-pau-public.php:318
+msgid "Object route"
+msgstr "Ruta del Objeto"
+
+#: public/class-pau-public.php:322 public/class-pau-public.php:365
+msgid "Save assignment through text"
+msgstr "Guardar asignando al texto"
+
+#: public/class-pau-public.php:323 public/class-pau-public.php:363
+msgid "Save assignment"
+msgstr "Guardar asignación"
+
+#: public/class-pau-public.php:324
+msgid "See conflicts"
+msgstr "Ver los conflictos"
+
+#: public/class-pau-public.php:331
+msgid "Test message"
+msgstr "Mensaje Test"
+
+#: public/class-pau-public.php:336
+msgid "Edit page"
+msgstr "Editar pagina"
+
+#: public/class-pau-public.php:355
+msgid ""
+"The route you selected has a conflict, click on the button see conflict "
+"below."
+msgstr ""
+"La ruta que seleccionó tiene un conflicto, haga clic en el botón ver "
+"conflicto abajo."
+
+#: public/class-pau-public.php:356
+msgid ""
+"The object to which you have clicked, does not have a unique identifier that "
+"allows us to assign the Hots Post correctly, we recommend adding a unique "
+"Identifier to the element you are selecting, you can click on the edit page "
+"button, to put a unique identifier to the objects in conflicts."
+msgstr ""
+"El objeto en el que ha hecho clic, no tiene un identificador único o ID de "
+"referencia que nos permita asignar un acceso correcto a este. Le "
+"recomendamos que agregue un identificador único al elemento que está "
+"seleccionando, puede hacer clic en el botón de edición de la página, para "
+"poner un id al objeto en conflicto."
+
+#: public/class-pau-public.php:357
+msgid "Conflict"
+msgstr "Conflicto"
+
+#: public/class-pau-public.php:358
+msgid "The object that you have clicked on a route that refers to"
+msgstr "El objeto al que ha hecho clic tiene la siguiente ruta"
+
+#: public/class-pau-public.php:359
+msgid "objects."
+msgstr "objetos."
+
+#: public/class-pau-public.php:360
+msgid "You have 2 solutions: "
+msgstr "Tienes 2 soluciones: "
+
+#: public/class-pau-public.php:361
+msgid ""
+"1: We recommend adding a unique Identifier to the element you are selecting, "
+"you can click on the edit page button, to put a unique identifier to the "
+"objects in conflicts."
+msgstr ""
+"1: Recomendamos agregar un ID o identificador único al elemento que está "
+"seleccionando, puede hacer clic en el botón  de edición de página para poner "
+"un identificador único a los objetos en conflicto."
+
+#: public/class-pau-public.php:362
+msgid ""
+"2: Close this window and you will find a button that says Save Assignment "
+"taking into account the text. Pressured and ready."
+msgstr ""
+"2: Cierre esta ventana y encontrará un botón que dice Guardar Asignación "
+"teniendo en cuenta el texto. Presionalo y listo."
+
+#: public/class-pau-public.php:364
+msgid ""
+"The object you selected does not have an identifier, please click on the "
+"button see conflicts."
+msgstr ""
+"El objeto que seleccionó no tiene un Id o identificador, haga clic en el "
+"botón para ver conflictos."
+
+#: public/class-pau-public.php:366
+msgid ""
+"The object you selected does not have any identifier, please click on the "
+"button see conflicts."
+msgstr ""
+"El objeto que seleccionó no tiene ningún id o identificador, haga clic en el "
+"botón para ver conflictos."
+
+#: public/class-pau-public.php:394
+msgid "Fullscreen"
+msgstr "Pantalla completa"
+
+#: public/class-pau-public.php:397
+msgid "Position"
+msgstr "Posición"
+
+#: public/class-pau-public.php:398
+msgid "Volume"
+msgstr "Volumen"
+
+#: public/class-pau-public.php:479
+msgid "Home"
+msgstr "Inicio"
+
+#: public/class-pau-public.php:491
+msgid "You are in: "
+msgstr "Estas en: "
+
+#: public/class-pau-public.php:503
+msgid "Archive by category: "
+msgstr "Listado por categoría: "
+
+#: public/class-pau-public.php:507
+msgid "Search results for: "
+msgstr "Resultados para: "
+
+#: public/class-pau-public.php:596
+msgid "Posts tagged: "
+msgstr "Publicaciones etiquetadas con: "
+
+#: public/class-pau-public.php:602
+msgid "Articles posted by: "
+msgstr "Artículos publicados por: "
+
+#: public/class-pau-public.php:605
+msgid "Error 404 "
+msgstr "Error 404 - No se encuentra "
+
+#. Plugin Name of the plugin/theme
+msgid "PAU (Panel Accessibility Universal)"
+msgstr "PAU (Panel de Accesibilidad Universal)"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://inclusivestudio.com"
+msgstr "https://estudioinclusivo.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Add to your WordPress a panel with universal accessibility tools without the "
+"need for programming: Pictograms, sign language, audios, visual aids, "
+"keyboard navigation, zooms, fonts, large pointer, etc. It’s completely "
+"customisable by the web administrator and each user or visitor has specific "
+"pre-configurations for cognitive, auditory and visual profiles."
+msgstr ""
+"Agregue a su WordPress a PAU sin la necesidad de programación, un panel con "
+"herramientas de accesibilidad universal : pictogramas, lenguaje de signos, "
+"audios, ayudas visuales, navegación con teclado, zoom, fuentes, puntero "
+"grande, etc. Es completamente personalizable por el administrador de la web "
+"y por cada usuario o visitante. Dispone de pre-configuraciones específicas "
+"para perfiles cognitivos, auditivos y visuales."
+
+#. Author of the plugin/theme
+msgid "Inclusive Studio (Estudio Inclusivo, S.L.L.)"
+msgstr "Estudio Inclusivo, S.L.L."
+
+#~ msgid "PAU DESKTOP, Universal Accessibility Panel"
+#~ msgstr "Escritorio PAU: Panel De Accesibilidad Universal"
+
+#~ msgid "Highlight Selection (Focus)"
+#~ msgstr "Resaltar el foco de una selección"
+
+#~ msgid "License SITE"
+#~ msgstr "Licencia de SITIO"
+
+#~ msgid "Additional licenses per site"
+#~ msgstr "Licencias adicionales por sitio"
+
+#~ msgid ""
+#~ "<p>We are professionals with diverse capacities, and our objective is to "
+#~ "create a working environment that allows us to channel diversity in the "
+#~ "search for solutions to develop universally accessible communication, "
+#~ "assuming the challenges that innovation stands for. Both in the "
+#~ "development of computer tools and work integration processes.</p>\n"
+#~ "        <p>We have constituted ourselves as a Labor Society because our "
+#~ "roots are born within the social, solidary and equitable economy.</p>\n"
+#~ "    \t<p>Equality of opportunity, the right to work, to be self-"
+#~ "sufficient, the dream in a full life is common to all people.</p>\n"
+#~ "    \t<p>We live in the communication age. For those who have limited "
+#~ "mobility and understanding, being able to access telematic channels of "
+#~ "information can mean a radical change in their lives.</p>\n"
+#~ "    \t<p>In Inclusive Studio (Estudio Inclusivo, S.L.L.) we think that "
+#~ "obstacles are opportunities that are disguised and that, with effort, "
+#~ "will and a lot of love, can be overcome.</p>\n"
+#~ "        <p>In the same way, facilitating access and telematic navigation "
+#~ "can bring commercial initiatives to a greater number of potential "
+#~ "customers.</p>\n"
+#~ "    \t<p>We firmly believe that technological development provides us "
+#~ "with tools capable of breaking the barriers that many people find when it "
+#~ "comes to acquiring information due to their diversity, training and age.</"
+#~ "p>\n"
+#~ "        </br>"
+#~ msgstr ""
+#~ "<p>Somos profesionales con capacidades diversas, y nuestro objetivo es "
+#~ "crear un entorno laboral que permita canalizar la diversidad en la "
+#~ "búsqueda de soluciones para desarrollar la comunicación accesible "
+#~ "universal, asumiendo los retos que marca la innovación. Tanto en el "
+#~ "desarrollo de herramientas informáticas como de procesos de integración "
+#~ "laboral.</p>\n"
+#~ "        <p>Nos hemos constituido como Sociedad Limitada Laboral pues "
+#~ "nuestras raíces nacen dentro de la economía social, solidaria y "
+#~ "equitativa.\n"
+#~ "\n"
+#~ "La igualdad de oportunidades, el derecho al trabajo, conseguir ser "
+#~ "autosuficientes, el sueño en una vida plena es común a todas las personas."
+#~ "</p>\n"
+#~ "    \t<p>La igualdad de oportunidades, el derecho al trabajo, conseguir "
+#~ "ser autosuficientes, el sueño en una vida plena es común a todas las "
+#~ "personas.</p>\n"
+#~ "    \t<p>Vivimos en la era de la comunicación. Para quienes tienen "
+#~ "limitada su movilidad y comprensión, poder acceder a los canales "
+#~ "telemáticos de información puede suponer un cambio radical en sus vidas.\n"
+#~ "\n"
+#~ "En Estudio Inclusivo pensamos que los obstáculos son oportunidades "
+#~ "disfrazadas y que, con esfuerzo, voluntad y mucho amor se pueden vencer.\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "Del mismo modo el facilitar el acceso y la navegación telemática puede "
+#~ "hacer llegar las iniciativas comerciales a un mayor número de potenciales "
+#~ "clientes.\n"
+#~ "\n"
+#~ "Creemos con firmeza que el desarrollo tecnológico nos provee de "
+#~ "herramientas capaces de romper las barreras con las que se encuentran "
+#~ "muchas personas a la hora de adquirir información por su diversidad, "
+#~ "formación y edad.</p>\n"
+#~ "    \t<p>En Estudio Inclusivo pensamos que los obstáculos son "
+#~ "oportunidades disfrazadas y que, con esfuerzo, voluntad y mucho amor se "
+#~ "pueden vencer.</p>\n"
+#~ "        <p>Del mismo modo el facilitar el acceso y la navegación "
+#~ "telemática puede hacer llegar las iniciativas comerciales a un mayor "
+#~ "número de potenciales clientes.</p>\n"
+#~ "    \t<p>Creemos con firmeza que el desarrollo tecnológico nos provee de "
+#~ "herramientas capaces de romper las barreras con las que se encuentran "
+#~ "muchas personas a la hora de adquirir información por su diversidad, "
+#~ "formación y edad.</p>\n"
+#~ "        <br>"
